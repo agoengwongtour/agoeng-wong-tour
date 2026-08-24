@@ -107,7 +107,7 @@ const SITE_CONFIG = {
   links: {
 
     // GANTI dengan link Join Agen resmi
-    joinAgent: "#",
+    joinAgent: "https://klikmbc.biz/mgm/form-register?id=JKT-839757",
 
     // Jika nanti ada halaman MMBC resmi
     mmbc: "#",
