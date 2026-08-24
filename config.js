@@ -342,7 +342,7 @@ const SITE_CONFIG = {
     merchant: "QRIS RESMI AGOENG WONG TOUR",
 
     nmid:
-      "NMID: MASUKKAN SESUAI QRIS ASLI",
+      "NMID: ID2025381330518",
 
     helpTitle:
       "Cara Bayar QRIS",
