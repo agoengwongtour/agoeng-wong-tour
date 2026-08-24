@@ -337,7 +337,7 @@ const SITE_CONFIG = {
 
     // SEMENTARA menggunakan logo.
     // Nanti ganti dengan QRIS asli.
-    image: "assets/logo-master.png",
+    image: "assets/qris-agoeng-wong.png",
 
     merchant: "QRIS RESMI AGOENG WONG TOUR",
 
